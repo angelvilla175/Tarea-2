@@ -1,0 +1,14 @@
+body{
+    background-color: pink;
+}
+
+h1{
+    color: darkolivegreen;
+}
+
+form{
+    background-color: lightgreen;
+    padding: 20px;
+    border-radius: 5px;
+    width: 300px;
+}
